@@ -1,16 +1,13 @@
 <div>
-  
-  <h1 align="center">
+    <h1 align="center">
     Oi Tudo bem? Eu sou a
     Gláucia Ribeiro 😃️</a>
   </h1>
-  
-  <p align="center">
-    Sou Cientista de Dados em construção... Aqui você vai encontar um pouco dos meus estudos na área de Dados.
-      
+    <p align="center">
+    Sou uma Cientista de Dados em construção... Aqui você vai encontar um pouco dos meus estudos na área de Dados.
+     
   </p>
-  
-</div>
+  </div>
 
 <div align="center">
   <a href="https://github.com/GlauciaRibeiro">
@@ -22,9 +19,7 @@
 <div align="center" valign="top"><br>
   
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-
-</div><br>
+  </div><br>
 
 <div align="center">
   <a href="https://www.instagram.com/glaucialr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,7 +28,5 @@
 </div>
 
 <div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+
