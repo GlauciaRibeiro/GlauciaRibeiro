@@ -32,7 +32,7 @@
 
 <b> ⚡ Principais Repositórios</b>:
 
-<a href="https://github.com/karinnecristina/Data_Science">
+<a href="https://github.com/GlauciaRibeiro/Data_Science">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
 </a>
 
