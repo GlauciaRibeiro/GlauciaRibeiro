@@ -30,3 +30,14 @@
 <div align="center">
 </div>
 
+<b> ⚡ Principais Repositórios</b>:
+
+<a href="https://github.com/karinnecristina/Data_Science">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Data_Science&theme=dark" />
+</a>
+
+<a href="https://github.com/karinnecristina/Engenharia_de_Dados">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=karinnecristina&repo=Engenharia_de_Dados&theme=dark" />
+</a>
+ 
+ 
