@@ -21,11 +21,13 @@
 
 | Projeto       | Descrição                                         | Tecnologias     | Link                  |
 |---------------|--------------------------------------------------|-----------------|-----------------------|
-| Dashboard Airbnb RJ | Análise de dados do Airbnb no Rio de Janeiro para entender tendências de turismo e preços | Power BI, Python | [link do projeto]     |
+| Dashboard Airbnb RJ | Análise de dados do Airbnb Lisboa para entender tendências de turismo e preços | Power BI, Python | https://bit.ly/3Qb0ZhA     |
+| Dashboard Criminalidade | Análise a criminalidade do Rio de Janeiro (2020) | Power BI, Python | https://bit.ly/3Qb0ZhA     |
 | Análise Champions League | Visualização das estatísticas dos times na Champions League | Power BI         | [link do projeto]     |
 | Previsão de Vendas | Modelo preditivo para prever vendas futuras baseado em dados históricos | Python, Scikit-Learn | [link do projeto] |
 
----
+
+
 
 ## Contato
 
